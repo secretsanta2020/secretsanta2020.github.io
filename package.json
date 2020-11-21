@@ -1,0 +1,9 @@
+{
+  "name": "stats",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "ethers": "^5.0.19",
+    "lodash": "^4.17.20"
+  }
+}
