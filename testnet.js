@@ -2,9 +2,9 @@ const fs = require('fs');
 const ethers = require('ethers');
 
 const state = JSON.parse(fs.readFileSync('./state.json'));
-const url = 'https://goerli.infura.io/v3/c51edd543c374967a6493f77518f5344';
+const url = 'https://mainnet.infura.io/v3/c51edd543c374967a6493f77518f5344';
 
-const contractAddress = '0xC2e7423F153F396063EF277a65Ebd8CdfFe48Ac1';
+const contractAddress = '0x5c204b44900B666801528be90AFd132CB544733c';
 
 const abi = [
   'event Deposit(address contract, uint256 value, uint type, uint256 vaultId)',
