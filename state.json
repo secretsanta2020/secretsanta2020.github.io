@@ -1,6 +1,8 @@
 {
-  "erc20": {},
+  "erc20": {
+    "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "5000000000000000"
+  },
   "erc721": {},
-  "lastBlock": 0,
-  "vaultCount": 0
+  "lastBlock": 11352622,
+  "vaultCount": 1
 }
